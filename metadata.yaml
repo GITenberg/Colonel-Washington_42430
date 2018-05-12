@@ -1,0 +1,29 @@
+_repo: Colonel-Washington_42430
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42430-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hulbert, Archer Butler
+    birthdate: 1873
+    deathdate: 1933
+    gutenberg_agent_id: '1112'
+    url: http://www.gutenberg.org/2009/agents/1112
+description: 'A prologue: The governor''s envoy -- The story of the campaign -- Fort
+  Necessity and its hero.'
+gutenberg_issued: '2013-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42430'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Washington, George, 1732-1799 -- Military leadership'
+tableOfContents: 'A prologue: The governor''s envoy -- The story of the campaign --
+  Fort Necessity and its hero.'
+title: Colonel Washington
+url: http://www.gutenberg.org/ebooks/42430
