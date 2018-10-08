@@ -25,6 +25,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'E300'
 - !lcsh 'Washington, George, 1732-1799 -- Military leadership'
+- GITenberg
 tableOfContents: 'A prologue: The governor''s envoy -- The story of the campaign --
   Fort Necessity and its hero.'
 title: Colonel Washington
